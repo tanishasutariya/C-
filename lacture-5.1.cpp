@@ -37,8 +37,8 @@ int main(){
 /*Q.2 Write a Program to implement method overriding by following the below-mentioned criteria:
 - Class Cricket -> Class T20Match
 - Class Cricket -> Class TestMatch
-- Override getTotalOvers() method in both classes
-*/
+- Override getTotalOvers() method in both classes*/
+
 #include<iostream>
 using namespace std;
 class Cricket{
